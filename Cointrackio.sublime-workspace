@@ -1,0 +1,1250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ali",
+				"align-top"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"nav-",
+				"nav-link"
+			],
+			[
+				"tex",
+				"text-nowrap"
+			],
+			[
+				"val",
+				"value1"
+			],
+			[
+				"element",
+				"elementoLista"
+			],
+			[
+				"vale",
+				"value1"
+			],
+			[
+				"rq",
+				"req_local"
+			],
+			[
+				"attr",
+				"q_attr"
+			],
+			[
+				"mq",
+				"mq_open"
+			],
+			[
+				"mess",
+				"message_local"
+			],
+			[
+				"messa",
+				"message_local"
+			],
+			[
+				"message",
+				"message_local"
+			],
+			[
+				"mes",
+				"message_local"
+			],
+			[
+				"pthread_mutex",
+				"pthread_mutex_lock"
+			],
+			[
+				"att",
+				"q_attt"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"float",
+				"float-right"
+			],
+			[
+				"bg",
+				"bg-dark"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"pc",
+				"pv--video-description"
+			],
+			[
+				"pv--",
+				"pv--video-description"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"bt",
+				"btn-danger"
+			],
+			[
+				"flo",
+				"float-right"
+			],
+			[
+				"drop",
+				"dropdown-item"
+			],
+			[
+				"dropdo",
+				"dropdown-menu"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"se",
+				"semilla"
+			],
+			[
+				"num",
+				"num_asteroides"
+			],
+			[
+				"vec",
+				"vec_ast"
+			],
+			[
+				"para",
+				"parallel"
+			],
+			[
+				"dista",
+				"distancia_real"
+			],
+			[
+				"dis",
+				"distancia_real"
+			],
+			[
+				"distancia_",
+				"distancia_no_sqrt"
+			],
+			[
+				"peda",
+				"pedantic-errors"
+			],
+			[
+				"distanc",
+				"distancia_no_sqrt"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"temp",
+				"temp_fuer"
+			],
+			[
+				"pla",
+				"vec_pla"
+			],
+			[
+				"distan",
+				"distancia_no_sqrt"
+			],
+			[
+				"distare",
+				"distancia_real"
+			],
+			[
+				"dist",
+				"distancia_no_sqrt"
+			],
+			[
+				"getp",
+				"get_pos_x"
+			],
+			[
+				"kp",
+				"k_pos_x"
+			],
+			[
+				"jpo",
+				"j_pos_x"
+			],
+			[
+				"jpos",
+				"j_pos_y"
+			],
+			[
+				"jp",
+				"j_pos_y"
+			],
+			[
+				"j_po",
+				"j_pos_x"
+			],
+			[
+				"ge",
+				"get_pos_y"
+			],
+			[
+				"calc",
+				"calcFuerzaAstX"
+			],
+			[
+				"get",
+				"get_fue_x"
+			],
+			[
+				"setf",
+				"set_fue_x"
+			],
+			[
+				"fuer",
+				"fuerza_y"
+			],
+			[
+				"get_ve",
+				"get_vel_y"
+			],
+			[
+				"getve",
+				"get_vel_x"
+			],
+			[
+				"ray",
+				"ray_width"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"ast",
+				"ast_vec"
+			],
+			[
+				"re",
+				"re"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"scri",
+				"scripts"
+			],
+			[
+				"vid",
+				"vid001"
+			],
+			[
+				"displa",
+				"displayVideo"
+			],
+			[
+				"t",
+				"text-top"
+			],
+			[
+				"pars",
+				"parsedData"
+			],
+			[
+				"email",
+				"emailModal"
+			],
+			[
+				"pass",
+				"passwordModal"
+			],
+			[
+				"submit",
+				"submitModal"
+			],
+			[
+				"c",
+				"chora-aas-v1"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"clei",
+				"clientY"
+			],
+			[
+				"distance",
+				"distanceToMil"
+			],
+			[
+				"siz",
+				"size_y"
+			],
+			[
+				"si",
+				"size_y"
+			],
+			[
+				"size",
+				"size_x"
+			],
+			[
+				"mil",
+				"mil"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"trasf",
+				"transform"
+			],
+			[
+				"cl",
+				"clientX"
+			],
+			[
+				"rel",
+				"rel_x"
+			],
+			[
+				"pos",
+				"pos_y"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"conte",
+				"align-content"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"li",
+				"lightgray"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mul",
+				"multipleOfFive"
+			],
+			[
+				"mult",
+				"multipleOfFife"
+			],
+			[
+				"multi",
+				"multipleOfThree"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"colum",
+				"column-gap"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 20615,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.css",
+			"settings":
+			{
+				"buffer_size": 94,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"Compile seq"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"Compile par"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"15 10 5 55.500 2000"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"2 1 4 55.500 2000"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"1000 3000 1000 55.550 2000"
+				]
+			],
+			[
+				"Packages/User/MinGW-w64.sublime-build",
+				"Compile par"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/MinGW-w64.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"15 10 5 55.500 2000"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"2 1 4 55.500 2000"
+				]
+			],
+			[
+				"Packages/User/MinGW-w64.sublime-build",
+				"2 1 4 55.500 2000"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"15 10 5 55.500 2000"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"2 1 4 55.500 2000"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"10 3 8 55.500 2000"
+				]
+			],
+			[
+				"Packages/User/MinGW-w64.sublime-build",
+				"15 10 5 55.500 2000"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"15 10 5 55.500 2000"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"2 1 4 55.500 2000"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"1000 3000 1000 55.550 2000"
+				]
+			],
+			[
+				"Packages/User/MinGW-w64.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"15 10 5 55.500 2000"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"2 1 4 55.500 2000"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"2 3 4 55.500 2000"
+				]
+			],
+			[
+				"Packages/User/MinGW-w64.sublime-build",
+				"2 3 4 55.500 2000"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"15 10 5 55.500 2000"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"2 1 4 55.500 2000"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"2 3 8 55.500 2000"
+				]
+			],
+			[
+				"Packages/User/MinGW-w64.sublime-build",
+				"2 3 8 55.500 2000"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"Temp0correct"
+				],
+				[
+					"Packages/User/MinGW-w64.sublime-build",
+					"Temp1err"
+				]
+			],
+			[
+				"Packages/User/MinGW-w64.sublime-build",
+				"Temp0correct"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 38.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"create",
+				"Javatar: Create new..."
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 257.0,
+		"history":
+		[
+			"javac",
+			"jajvac",
+			"?",
+			"/?",
+			"help",
+			"cd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Cointrackio"
+	],
+	"file_history":
+	[
+		"/C/uc3m-dso-p1/RRF.c",
+		"/C/uc3m-dso-p1/RR.c",
+		"/C/uc3m-dso-p1/main.c",
+		"/C/uc3m-dso-p1/mythreadlib.c",
+		"/C/uc3m-dso-p1/RRFN.c",
+		"/C/uc3m-dso-p1/mythread.h",
+		"/C/uc3m-dso-p1/interrupt.c",
+		"/C/uc3m-dso-p1/interrupt.h",
+		"/C/uc3m-dso-p1/queue.h",
+		"/C/uc3m-dso-p1/queue.c",
+		"/C/Users/Pablo/Desktop/uc3m-dso-p1/main.c",
+		"/C/Users/Pablo/Downloads/README.md",
+		"/C/Users/Pablo/AppData/Local/Temp/Rar$DIa0.474/README.md",
+		"/C/uc3m-dso-p1/RRFI.c",
+		"/C/uc3m-dso-p1/.gitignore",
+		"/C/uc3m-ssdd-p1/cliente6.c",
+		"/C/uc3m-ssdd-p1/cliente5.c",
+		"/C/uc3m-ssdd-p1/cliente4.c",
+		"/C/uc3m-ssdd-p1/claves.c",
+		"/C/uc3m-ssdd-p1/servidor.c",
+		"/C/uc3m-ssdd-p1/servidor",
+		"/C/uc3m-ssdd-p1/Makefile",
+		"/C/uc3m-ssdd-p1/cliente1.c",
+		"/C/uc3m-ssdd-p1/cliente2.c",
+		"/C/uc3m-ssdd-p1/cliente3.c",
+		"/C/uc3m-ssdd-p1/cliente2 - Copy.c",
+		"/C/uc3m-ssdd-p1/lista.h",
+		"/C/uc3m-ssdd-p1/lista.c",
+		"/C/uc3m-ssdd-p1/messages.h",
+		"/C/uc3m-ssdd-p1/servidor.h",
+		"/C/uc3m-ssdd-p1/CMakeLists.txt",
+		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Packages/User/MinGW-w64.sublime-build",
+		"/C/Users/Pablo/AppData/Local/Temp/Rar$DIa0.518/client.java",
+		"/C/Users/Pablo/AppData/Local/Temp/Rar$DIa0.694/server.c",
+		"/C/Users/Pablo/AppData/Local/Temp/Rar$DIa0.018/read_line.c",
+		"/C/Users/Pablo/AppData/Local/Temp/Rar$DIa0.773/read_line.h",
+		"/C/Users/Pablo/AppData/Local/Temp/Rar$DIa0.386/autores.txt",
+		"/C/Users/Pablo/Desktop/script2.sh",
+		"/H/script2.sh",
+		"/C/Users/Pablo/Downloads/snort.conf",
+		"/C/Users/Pablo/Downloads/sudoers",
+		"/C/Users/Pablo/Desktop/passwd",
+		"/C/Users/Pablo/Desktop/group",
+		"/C/Users/Pablo/Desktop/sudoers",
+		"/F/sudoers",
+		"/C/Users/Pablo/Desktop/script.sh",
+		"/C/Users/Pablo/Downloads/WhatsApp Image 2018-02-15 at 21.14.23.txt",
+		"/C/SquadMaps/index.html",
+		"/C/gurux.dlms.java/gurux.dlms.client.example.java/src/gurux/dlms/client/GXDLMSReader.java",
+		"/C/gurux.dlms.java/gurux.dlms.client.example.java/src/gurux/dlms/client/sampleclient.java",
+		"/C/gurux.dlms.java/gurux.dlms.client.example.java/src/gurux/dlms/client/Settings.java",
+		"/C/Users/Pablo/AppData/Local/Temp/Rar$DIa0.802/COSEMpdu.xsd",
+		"/C/RetoPCComp-2018-01-23/reto.cpp",
+		"/C/Users/Pablo/Desktop/Universidad/Arquitectura de computadores/Practica 2/par/nasteroid-par.cpp",
+		"/C/Users/Pablo/Downloads/01 (2 files merged).txt",
+		"/C/Users/Pablo/AppData/Local/Temp/Rar$DIa0.632/Advanced_Population Versionslog.txt",
+		"/E/z.temp/Company Of Heroes - Tales of Valor - All Patches - LAN/README.txt",
+		"/E/z.temp/Company Of Heroes - Tales of Valor - All Patches - LAN/Company Of Heroes - Opposing Fronts (2007)/Autorun.txt",
+		"/E/Games/Tabletop.Simulator.v9.9/Tabletop Simulator/README.txt",
+		"/C/Users/Pablo/AppData/Local/Temp/Rar$DIa0.316/leeme.txt",
+		"/C/Users/Pablo/AppData/Local/Temp/Rar$DIa0.509/leeme.txt",
+		"/C/Users/Pablo/Documents/Arma 3/mpmissions/bbb.Kunduz/initPlayerLocal.sqf",
+		"/E/Games/Tabletop.Simulator.v9.9/README.txt",
+		"/C/Users/Pablo/Downloads/Estado.java",
+		"/C/Users/Pablo/Downloads/AstarPacman.java",
+		"/C/Users/Pablo/Downloads/Nodo.java",
+		"/D/0. Upload/KMSpico_v10.2.0/KMSpico Portable/ReadMe KMSpico Portable.txt",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/parking1.goal",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/parking1.init",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/parking3.output",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/src/heuristica/parte1.java",
+		"/C/Users/Pablo/AppData/Local/Temp/Rar$DIa0.333/AUTHOR",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/parking1.GOAL",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/parking5.input",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/parking5.output",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/parking4.input",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/parking3.input",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/parking1.input",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/parking1.output",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/parking2.input",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/parking2.output",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/parking1.txt",
+		"/C/Users/Pablo/Downloads/Seguridad/Seguridad/Seguridad.java",
+		"/C/Users/Pablo/Downloads/pacman.java",
+		"/C/Users/Pablo/eclipse-workspace/heuristica/laberinto1.txt",
+		"/C/Users/Pablo/Downloads/Seguridad/src/Seguridad.java",
+		"/C/Users/Pablo/Downloads/laberinto1.txt",
+		"/C/Users/Pablo/Desktop/New Text Document.txt",
+		"/C/Users/Pablo/Downloads/SATparking.java",
+		"/C/Users/Pablo/Downloads/JaCoP_enlaces",
+		"/C/Users/Pablo/Downloads/heuristica/parte1.java",
+		"/C/uc3m-interfaces_de_usuario-final_bootstrap/video_example.html",
+		"/C/uc3m-interfaces_de_usuario-final_bootstrap/tos.html",
+		"/C/uc3m-interfaces_de_usuario-final_bootstrap/register.html",
+		"/C/uc3m-interfaces_de_usuario-final_bootstrap/index.html",
+		"/C/uc3m-interfaces_de_usuario-final_bootstrap/faq.html",
+		"/C/uc3m-interfaces_de_usuario-final_bootstrap/blank.html",
+		"/C/uc3m-interfaces_de_usuario-final_bootstrap/aboutus.html",
+		"/C/uc3m-interfaces_de_usuario-final_bootstrap/style.css",
+		"/C/Users/Pablo/Downloads/termsfeed-terms-service-html-english.html",
+		"/C/Users/Pablo/AppData/Local/Temp/Rar$DIa0.307/termsfeed-terms-service-text-english.txt",
+		"/C/Users/Pablo/Downloads/bootstrap-4.0.0-beta.2/docs/4.0/examples/dashboard/dashboard.css",
+		"/C/Users/Pablo/Downloads/bootstrap-4.0.0-beta.2/docs/4.0/examples/starter-template/index.html",
+		"/C/uc3m-interfaces_de_usuario-final_bootstrap/docs/4.0/examples/starter-template/starter-template.css",
+		"/C/uc3m-interfaces_de_usuario-final_bootstrap/docs/4.0/examples/starter-template/index.html",
+		"/C/uc3m-interfaces_de_usuario-final/index.html",
+		"/C/uc3m-interfaces_de_usuario-final/images/trending.txt",
+		"/C/uc3m-interfaces_de_usuario-final/FlsCjmMhFmw.html",
+		"/C/uc3m-interfaces_de_usuario-final/style/style.css",
+		"/C/uc3m-interfaces_de_usuario-final/scripts/script.js",
+		"/C/uc3m-interfaces_de_usuario-final/gaming.html",
+		"/C/uc3m-interfaces_de_usuario-ep02/ej02/scripts/script.js",
+		"/C/uc3m-interfaces_de_usuario-ep02/ej02/style/ej02.css",
+		"/C/uc3m-interfaces_de_usuario-ep02/ej02/ej02.html",
+		"/C/uc3m-interfaces_de_usuario-final/videos/FlsCjmMhFmw.html",
+		"/C/uc3m-interfaces_de_usuario-final/style/material.css",
+		"/C/uc3m-interfaces_de_usuario-final/tech.html",
+		"/C/uc3m-interfaces_de_usuario-final/music.html",
+		"/C/uc3m-interfaces_de_usuario-final/images/music.txt",
+		"/C/uc3m-interfaces_de_usuario-final/images/tech.txt",
+		"/C/uc3m-interfaces_de_usuario-final/images/gaming.txt",
+		"/C/uc3m-interfaces_de_usuario-final/images/list.txt",
+		"/C/uc3m-interfaces_de_usuario-final/style/styleold.css",
+		"/C/Napster-653.github.io/index.html",
+		"/D/Marvels.Agents.Of.S.H.I.E.L.D.S04E22.Worlds.End.1080p.AMZN.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt",
+		"/C/Users/Pablo/Downloads/Squad.po",
+		"/C/Users/Pablo/Downloads/Readme.txt",
+		"/C/Users/Pablo/Downloads/rlslister.user.js"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"href",
+			">\n",
+			"a",
+			"=\"#\">...</",
+			">\n",
+			"=\"#\">...</",
+			"nav",
+			"mythread_exit",
+			"\n{",
+			"triplet",
+			"node",
+			"res",
+			"int res",
+			"request",
+			"message",
+			"request",
+			".\n",
+			"pet",
+			".\n",
+			"sizeof",
+			".png",
+			"GXDLMSClient",
+			"dlms",
+			"GXDLMSClient",
+			"time",
+			"Arraylist",
+			"listaCerrada",
+			"listaA",
+			"set",
+			"hijo",
+			"estado",
+			"PSD",
+			"style.css",
+			"04",
+			" pull-right",
+			"a href=\"#\"",
+			"pv--dr",
+			"lg",
+			"pv--truncate-2",
+			"40",
+			"28",
+			"./videos",
+			"hide",
+			"mdl-cell--2-col-desktop",
+			"--3",
+			"./",
+			"<img",
+			"white",
+			"orange-800"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Triplet",
+			"Node",
+			"struct Response res",
+			"Request",
+			"req",
+			"Request",
+			".jpg",
+			"saleD",
+			"style/style.css",
+			"08",
+			"07",
+			"06",
+			"05",
+			"",
+			"a href=\"video_example.html\"",
+			"xl",
+			"text-truncate",
+			".",
+			"mdl-cell--2-col-desktop mdl-cell--4-col-tablet",
+			"--2",
+			"./videos/",
+			"<a href=\"./FlsCjmMhFmw.html\"><img",
+			"grey-200",
+			"white"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								814,
+								814
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 225.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/MinGW-w64.sublime-build",
+	"project": "Cointrackio.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"s",
+				"seq.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
