@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>test</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+</head>
+<body>
+	<nav class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0">
+		<a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Cointrack.io</a>
+		<ul class="navbar-nav mr-auto">
+			<li class="nav-item text-nowrap">
+				<a class="nav-link" href="#">Log in</a>
+			</li>
+		</ul>
+	</nav>
+
+	<script type="text/javascript">
+		function httpGet()
+		{
+			var reqProducts = new XMLHttpRequest();
+			reqProducts.onreadystatechange = function()
+			{
+				if (reqProducts.readyState == 4 && reqProducts.status == 200) // Se recibe el json de productos
+				{
+					var resProducts = JSON.parse(reqProducts.response);
+					for (var i = 0; i < resProducts.length; i++)
+					{
+						var reqStatsString = "https://api-public.sandbox.gdax.com/products/" + response01[i].id + "/stats";
+						var reqStats = new XMLHttpRequest();
+						reqStats.onreadystatechange = function ()
+						{
+							
+						}
+					}
+				}
+			}
+			reqProducts.open("GET", "https://api-public.sandbox.gdax.com/products", true);
+			reqProducts.send();
+		}
+		function processrequest01(e)
+		{
+			if (request01.readyState == 4)
+			{
+				if (request01.status == 200)
+				{
+					var response01 = JSON.parse(request01.response);
+					var requestString;
+
+					for (var i = 0; i < 1 /*response01.length*/; i++)
+					{
+						requestString = "https://api-public.sandbox.gdax.com/products/" + response01[i].id + "/stats";
+						console.log(requestString);
+						requestArray[i] = new XMLHttpRequest();
+						requestArray[i].open('GET', requestString, true);
+						requestArray[i].addEventListener("readystatechange", processrequest02(requestArray[i], responseArray[i]), false);
+						requestArray[i].send();
+					}
+				}
+			}
+		}
+		function processrequest02(req, res)
+		{
+			console.log(req);
+			if (req.readyState == 4)
+			{
+				if (req.status == 200)
+				{
+					console.log("test");
+					var response = JSON.parse(req.response);
+					console.log(response);
+				}
+			}
+		}
+
+		var request01 = new XMLHttpRequest();
+		var request02 = new XMLHttpRequest();
+		var requestArray = [9];
+		var responseArray = [9];
+
+		var response01;
+
+		request01.open('GET', "https://api-public.sandbox.gdax.com/products", true);
+		request01.send();
+		request01.addEventListener("readystatechange", processrequest01, false);
+
+		
+		
+
+		
+
+	</script>
+
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+</body>
+</html>
