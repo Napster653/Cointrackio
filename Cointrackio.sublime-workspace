@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
 				"ali",
 				"align-top"
 			],
@@ -126,10 +130,6 @@
 			[
 				"text",
 				"text-align"
-			],
-			[
-				"for",
-				"for\tfor (…) {…} (Improved Native For-Loop)"
 			],
 			[
 				"se",
@@ -523,7 +523,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 20615,
+				"buffer_size": 20645,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gdax.html",
+			"settings":
+			{
+				"buffer_size": 7208,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -532,7 +541,7 @@
 			"file": "index.css",
 			"settings":
 			{
-				"buffer_size": 94,
+				"buffer_size": 91,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -856,7 +865,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Cointrackio"
+		"/C/Users/Napster/Desktop/Cointrackio"
 	],
 	"file_history":
 	[
@@ -1005,6 +1014,10 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"tr",
+			">\n",
+			"reqProducts",
+			"table",
 			"href",
 			">\n",
 			"a",
@@ -1104,23 +1117,24 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 20615,
+						"buffer_size": 20645,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								814,
-								814
+								4093,
+								4598
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"word_wrap": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 228.0,
+						"translation.y": 859.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1128,19 +1142,48 @@
 				},
 				{
 					"buffer": 1,
-					"file": "index.css",
+					"file": "gdax.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 94,
+						"buffer_size": 7208,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								37,
-								37
+								4477,
+								4477
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 975.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
 							]
 						],
 						"settings":
@@ -1151,7 +1194,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
