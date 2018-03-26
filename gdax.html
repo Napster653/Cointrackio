@@ -88,8 +88,6 @@
 			{
 				if (table.rows[i].cells[0].innerHTML == id)
 				{
-					console.log(id);
-					console.log(table.rows[i].cells[0].innerHTML);
 					return i;
 				}
 			}
@@ -99,10 +97,12 @@
 		{
 			var dataTable = document.getElementById("dataTable");
 			var existe = exists(dataTable, x);
+			var last = -1;
 			if (existe != -1)
 			{
 				var row = dataTable.insertRow(existe);
-				dataTable.deleteRow(existe + 1)
+				last = Number(dataTable.rows[existe + 1].cells[5].innerHTML);
+				dataTable.deleteRow(existe + 1);
 			}
 			else
 			{
@@ -126,7 +126,36 @@
 			cell.innerHTML = y.volume;
 
 			cell = row.insertCell(5);
-			cell.innerHTML = y.last;
+			if (last != -1)
+			{
+				console.log("last:\t" + typeof(last) + "\t" + last);
+				console.log("y.last\t" + typeof(Number(y.last)) + "\t" + Number(y.last));
+				if (last < Number(y.last))
+				{
+					cell.classList.toggle("text-danger", false);
+					cell.classList.toggle("text-info", false);
+					cell.classList.toggle("text-success", true);
+					cell.innerHTML = y.last;
+				}
+				else if (last == Number(y.last))
+				{
+					cell.classList.toggle("text-success", false);
+					cell.classList.toggle("text-danger", false);
+					cell.classList.toggle("text-info", true);
+					cell.innerHTML = y.last;
+				}
+				else
+				{
+					cell.classList.toggle("text-success", false);
+					cell.classList.toggle("text-info", false);
+					cell.classList.toggle("text-danger", true);
+					cell.innerHTML = y.last;
+				}
+			}
+			else
+			{
+				cell.innerHTML = y.last;
+			}
 		}
 		// window.onload = getProductsGdax();
 		window.setInterval(function(){
