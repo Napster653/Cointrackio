@@ -98,11 +98,17 @@
 		function updateDataTable(x, y)
 		{
 			var dataTable = document.getElementById("dataTable");
-			if (exists(dataTable, x)
+			var existe = exists(dataTable, x);
+			if (existe != -1)
 			{
-				
+				var row = dataTable.insertRow(existe);
+				dataTable.deleteRow(existe + 1)
 			}
-			var row = dataTable.insertRow(exists(dataTable, x));
+			else
+			{
+				var row = dataTable.insertRow(-1);
+			}
+			console.log(existe);
 
 			var cell = row.insertCell(0);
 			cell.innerHTML = x;
