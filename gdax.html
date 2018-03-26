@@ -60,7 +60,6 @@
 								<th>Low</th>
 								<th>Volume</th>
 								<th>Last</th>
-								<th>Trend</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -93,14 +92,21 @@
 			}
 			return -1;
 		}
+		function getTrend (oldN, newN)
+		{
+			var decreaseValue = oldN - newN;
+			return (decreaseValue / oldN) * 100;
+		}
 		function updateDataTable(x, y)
 		{
 			var dataTable = document.getElementById("dataTable");
 			var existe = exists(dataTable, x);
 			var last = -1;
+			var classes;
 			if (existe != -1)
 			{
 				var row = dataTable.insertRow(existe);
+				classes = dataTable.rows[existe + 1].cells[5].classList;
 				last = Number(dataTable.rows[existe + 1].cells[5].innerHTML);
 				dataTable.deleteRow(existe + 1);
 			}
@@ -114,16 +120,16 @@
 			cell.innerHTML = x;
 
 			cell = row.insertCell(1);
-			cell.innerHTML = y.open;
+			cell.innerHTML = Number(y.open);
 
 			cell = row.insertCell(2);
-			cell.innerHTML = y.high;
+			cell.innerHTML = Number(y.high);
 
 			cell = row.insertCell(3);
-			cell.innerHTML = y.low;
+			cell.innerHTML = Number(y.low);
 
 			cell = row.insertCell(4);
-			cell.innerHTML = y.volume;
+			cell.innerHTML = Number(y.volume);
 
 			cell = row.insertCell(5);
 			if (last != -1)
@@ -132,35 +138,36 @@
 				console.log("y.last\t" + typeof(Number(y.last)) + "\t" + Number(y.last));
 				if (last < Number(y.last))
 				{
+					console.log("mejor");
 					cell.classList.toggle("text-danger", false);
 					cell.classList.toggle("text-info", false);
 					cell.classList.toggle("text-success", true);
-					cell.innerHTML = y.last;
+					cell.innerHTML = Number(y.last);
 				}
-				else if (last == Number(y.last))
+				else if (last > Number(y.last))
 				{
-					cell.classList.toggle("text-success", false);
-					cell.classList.toggle("text-danger", false);
-					cell.classList.toggle("text-info", true);
-					cell.innerHTML = y.last;
-				}
-				else
-				{
+					console.log("peor");
 					cell.classList.toggle("text-success", false);
 					cell.classList.toggle("text-info", false);
 					cell.classList.toggle("text-danger", true);
-					cell.innerHTML = y.last;
+					cell.innerHTML = Number(y.last);
+				}
+				else
+				{
+					cell.classList = classes;
+					cell.innerHTML = last;
+					console.log("igual");
 				}
 			}
 			else
 			{
-				cell.innerHTML = y.last;
+				cell.innerHTML = Number(y.last);
 			}
 		}
-		// window.onload = getProductsGdax();
+		window.onload = getProductsGdax();
 		window.setInterval(function(){
 			getProductsGdax();
-		}, 2000);
+		}, 5000);
 		var windowIsFocused = true;
 		function onBlur()
 		{

@@ -4,8 +4,60 @@
 		"selected_items":
 		[
 			[
+				"class",
+				"classList"
+			],
+			[
+				"cel",
+				"cells"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"inser",
+				"insertCell"
+			],
+			[
 				"for",
-				"for\tfor (…) {…}"
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"window",
+				"windowIsFocused"
+			],
+			[
+				"stats",
+				"stats_24hour"
+			],
+			[
+				"stat",
+				"statsRequest"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"statsres",
+				"statsResponse"
+			],
+			[
+				"respose",
+				"responseText"
+			],
+			[
+				"resp",
+				"responseText"
+			],
+			[
+				"read",
+				"readyState"
 			],
 			[
 				"ali",
@@ -222,10 +274,6 @@
 			[
 				"calc",
 				"calcFuerzaAstX"
-			],
-			[
-				"get",
-				"get_fue_x"
 			],
 			[
 				"setf",
@@ -466,54 +514,6 @@
 			[
 				"wi",
 				"width"
-			],
-			[
-				"padd",
-				"padding"
-			],
-			[
-				"fon",
-				"font-size"
-			],
-			[
-				"fo",
-				"font-size"
-			],
-			[
-				"hei",
-				"height"
-			],
-			[
-				"pa",
-				"padding"
-			],
-			[
-				"l",
-				"li\tTag"
-			],
-			[
-				"a",
-				"auto"
-			],
-			[
-				"in",
-				"input\tTag"
-			],
-			[
-				"ima",
-				"images"
-			],
-			[
-				"op",
-				"option\tTag"
-			],
-			[
-				"list",
-				"list-style-type"
-			],
-			[
-				"colum",
-				"column-gap"
 			]
 		]
 	},
@@ -532,9 +532,19 @@
 			"file": "gdax.html",
 			"settings":
 			{
-				"buffer_size": 7208,
+				"buffer_size": 7700,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "API.txt",
+			"settings":
+			{
+				"buffer_size": 143,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "API KEY: bef04d1ee4e16edc1369de4b2a5d1cad"
 			}
 		},
 		{
@@ -1014,6 +1024,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"addToDataTable",
 			"tr",
 			">\n",
 			"reqProducts",
@@ -1074,6 +1085,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"updateDataTable",
 			"Triplet",
 			"Node",
 			"struct Response res",
@@ -1124,8 +1136,8 @@
 						"selection":
 						[
 							[
-								4093,
-								4598
+								4192,
+								4192
 							]
 						],
 						"settings":
@@ -1134,7 +1146,7 @@
 							"word_wrap": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 859.0,
+						"translation.y": 508.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1146,15 +1158,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7208,
+						"buffer_size": 7700,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4477,
-								4477
+								4824,
+								4824
 							]
 						],
 						"settings":
@@ -1163,7 +1175,7 @@
 							"word_wrap": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 975.0,
+						"translation.y": 1907.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1171,6 +1183,35 @@
 				},
 				{
 					"buffer": 2,
+					"file": "API.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"auto_name": "API KEY: bef04d1ee4e16edc1369de4b2a5d1cad",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "index.css",
 					"semi_transient": false,
 					"settings":
@@ -1194,7 +1235,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1243,7 +1284,7 @@
 	"project": "Cointrackio.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 73.0
 	},
 	"save_all_on_build": true,
 	"select_file":
