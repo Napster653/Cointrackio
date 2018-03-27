@@ -72,11 +72,15 @@
 	<script type="text/javascript" src="./gdax.js"></script>
 	<script type="text/javascript" src="./tableManager.js"></script>
 	<script type="text/javascript">
-		window.onload = getProductsGdax();
+		// window.onload = getProductsGdax();
 
-		window.setInterval(function(){
+		// window.setInterval(function(){
+		// 	getProductsGdax();
+		// }, 5000);
+		(function(){
 			getProductsGdax();
-		}, 5000);
+			setTimeout(getProductsGdax(), 5000);
+		})();
 	</script>
 
 	</body>

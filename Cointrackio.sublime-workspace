@@ -4,16 +4,48 @@
 		"selected_items":
 		[
 			[
+				"prod",
+				"productData"
+			],
+			[
+				"pro",
+				"productData"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"nw",
+				"newN"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"trend",
+				"oldTrend"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"cell",
+				"cells"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
 				"class",
 				"classList"
 			],
 			[
 				"cel",
 				"cells"
-			],
-			[
-				"clas",
-				"classes"
 			],
 			[
 				"inser",
@@ -170,10 +202,6 @@
 			[
 				"inl",
 				"inline-block"
-			],
-			[
-				"font",
-				"font-family"
 			],
 			[
 				"margin",
@@ -486,72 +514,43 @@
 			[
 				"i",
 				"i\tTag"
-			],
-			[
-				"padding",
-				"padding"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"mul",
-				"multipleOfFive"
-			],
-			[
-				"mult",
-				"multipleOfFife"
-			],
-			[
-				"multi",
-				"multipleOfThree"
-			],
-			[
-				"text-a",
-				"text-align"
-			],
-			[
-				"wi",
-				"width"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "traders/bittrex.html",
 			"settings":
 			{
-				"buffer_size": 20645,
+				"buffer_size": 3611,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "gdax.html",
+			"file": "traders/gdax.html",
 			"settings":
 			{
-				"buffer_size": 7700,
+				"buffer_size": 3675,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "API.txt",
+			"file": "traders/bittrex.js",
 			"settings":
 			{
-				"buffer_size": 143,
+				"buffer_size": 731,
 				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "API KEY: bef04d1ee4e16edc1369de4b2a5d1cad"
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "index.css",
+			"file": "traders/tableManager.js",
 			"settings":
 			{
-				"buffer_size": 91,
+				"buffer_size": 3094,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -875,10 +874,24 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Napster/Desktop/Cointrackio"
+		"/C/Users/Napster/Desktop/Cointrackio",
+		"/C/Users/Napster/Desktop/Cointrackio/traders"
 	],
 	"file_history":
 	[
+		"/C/Users/Napster/Desktop/Cointrackio/traders/gdax.js",
+		"/C/Users/Napster/Desktop/Cointrackio/traders/gdax.html",
+		"/C/Users/Napster/Desktop/Cointrackio/traders/traders.css",
+		"/C/Users/Napster/Desktop/Cointrackio/traders/tableManager.js",
+		"/C/Users/Napster/Desktop/Cointrackio/traders/blank.html",
+		"/C/Users/Napster/Desktop/Cointrackio/traders/bittrex.html",
+		"/C/Users/Napster/Desktop/Cointrackio/traders/bitfinex.html",
+		"/C/Users/Napster/Desktop/Cointrackio/traders/kucoin.html",
+		"/C/Users/Napster/Desktop/Cointrackio/traders/kraken.html",
+		"/C/Users/Napster/Desktop/Cointrackio/index.css",
+		"/C/Users/Napster/Desktop/Cointrackio/API.txt",
+		"/C/Users/Napster/Desktop/Cointrackio/index.html",
+		"/C/Users/Napster/Desktop/Cointrackio/gdax.html",
 		"/C/uc3m-dso-p1/RRF.c",
 		"/C/uc3m-dso-p1/RR.c",
 		"/C/uc3m-dso-p1/main.c",
@@ -993,20 +1006,7 @@
 		"/C/uc3m-interfaces_de_usuario-ep02/ej02/scripts/script.js",
 		"/C/uc3m-interfaces_de_usuario-ep02/ej02/style/ej02.css",
 		"/C/uc3m-interfaces_de_usuario-ep02/ej02/ej02.html",
-		"/C/uc3m-interfaces_de_usuario-final/videos/FlsCjmMhFmw.html",
-		"/C/uc3m-interfaces_de_usuario-final/style/material.css",
-		"/C/uc3m-interfaces_de_usuario-final/tech.html",
-		"/C/uc3m-interfaces_de_usuario-final/music.html",
-		"/C/uc3m-interfaces_de_usuario-final/images/music.txt",
-		"/C/uc3m-interfaces_de_usuario-final/images/tech.txt",
-		"/C/uc3m-interfaces_de_usuario-final/images/gaming.txt",
-		"/C/uc3m-interfaces_de_usuario-final/images/list.txt",
-		"/C/uc3m-interfaces_de_usuario-final/style/styleold.css",
-		"/C/Napster-653.github.io/index.html",
-		"/D/Marvels.Agents.Of.S.H.I.E.L.D.S04E22.Worlds.End.1080p.AMZN.WEBRip.DD5.1.x264-NTb[rarbg]/RARBG.txt",
-		"/C/Users/Pablo/Downloads/Squad.po",
-		"/C/Users/Pablo/Downloads/Readme.txt",
-		"/C/Users/Pablo/Downloads/rlslister.user.js"
+		"/C/uc3m-interfaces_de_usuario-final/videos/FlsCjmMhFmw.html"
 	],
 	"find":
 	{
@@ -1024,6 +1024,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"center",
+			"last",
 			"addToDataTable",
 			"tr",
 			">\n",
@@ -1085,6 +1087,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"oldLast",
 			"updateDataTable",
 			"Triplet",
 			"Node",
@@ -1125,28 +1128,27 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "traders/bittrex.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 20645,
+						"buffer_size": 3611,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4192,
-								4192
+								3582,
+								3494
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"word_wrap": false
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 508.0,
+						"translation.y": 624.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1154,28 +1156,27 @@
 				},
 				{
 					"buffer": 1,
-					"file": "gdax.html",
+					"file": "traders/gdax.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7700,
+						"buffer_size": 3675,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4824,
-								4824
+								2322,
+								2322
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"word_wrap": false
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1907.0,
+						"translation.y": 624.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1183,25 +1184,24 @@
 				},
 				{
 					"buffer": 2,
-					"file": "API.txt",
+					"file": "traders/bittrex.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 143,
+						"buffer_size": 731,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9,
-								9
+								255,
+								255
 							]
 						],
 						"settings":
 						{
-							"auto_name": "API KEY: bef04d1ee4e16edc1369de4b2a5d1cad",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1212,27 +1212,27 @@
 				},
 				{
 					"buffer": 3,
-					"file": "index.css",
+					"file": "traders/tableManager.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 91,
+						"buffer_size": 3094,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								36,
-								36
+								1450,
+								1450
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 741.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
@@ -1325,8 +1325,8 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 227.0,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
