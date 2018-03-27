@@ -43,14 +43,12 @@ function updateDataTable(y)
 			dataTable.rows[existe].cells[5].innerHTML = (Number(trend)<0?"":"+") + Number(trend).toFixed(6);
 			if (trend > 0)
 			{
-				console.log("Better");
 				dataTable.rows[existe].cells[5].classList.toggle("text-info", false);
 				dataTable.rows[existe].cells[5].classList.toggle("text-danger", false);
 				dataTable.rows[existe].cells[5].classList.toggle("text-success", true);
 			}
 			else
 			{
-				console.log("Worse");
 				dataTable.rows[existe].cells[5].classList.toggle("text-info", false);
 				dataTable.rows[existe].cells[5].classList.toggle("text-success", false);
 				dataTable.rows[existe].cells[5].classList.toggle("text-danger", true);

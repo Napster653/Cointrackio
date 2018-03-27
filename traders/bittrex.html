@@ -74,9 +74,10 @@
 	<script type="text/javascript">
 		window.onload = getProductsBittrex();
 
-		window.setInterval(function(){
+		(function(){
 			getProductsBittrex();
-		}, 5000);
+			setTimeout(getProductsBittrex(), 5000);
+		})();
 	</script>
 
 	</body>
