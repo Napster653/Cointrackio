@@ -1,0 +1,16 @@
+.sidebar
+{
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+#dataTable th, td
+{
+	text-align: right;
+}
+#dataTable th:nth-child(1), td:nth-child(1)
+{
+	text-align: left;
+}
