@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"res",
+				"response"
+			],
+			[
+				"param",
+				"paramString"
+			],
+			[
 				"prod",
 				"productData"
 			],
@@ -506,42 +514,16 @@
 			[
 				"li",
 				"lightgray"
-			],
-			[
-				"box-s",
-				"box-sizing"
-			],
-			[
-				"i",
-				"i\tTag"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "traders/bittrex.html",
+			"file": "chartCoins.js",
 			"settings":
 			{
-				"buffer_size": 3611,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "traders/gdax.html",
-			"settings":
-			{
-				"buffer_size": 3675,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "traders/bittrex.js",
-			"settings":
-			{
-				"buffer_size": 731,
+				"buffer_size": 710,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -551,7 +533,6 @@
 			"settings":
 			{
 				"buffer_size": 3094,
-				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -852,7 +833,7 @@
 	},
 	"console":
 	{
-		"height": 257.0,
+		"height": 312.0,
 		"history":
 		[
 			"javac",
@@ -874,11 +855,20 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Napster/Desktop/Cointrackio",
-		"/C/Users/Napster/Desktop/Cointrackio/traders"
+		"/C/Users/Pablo/Documents/GitHub/Cointrackio",
+		"/C/Users/Pablo/Documents/GitHub/Cointrackio/traders"
 	],
 	"file_history":
 	[
+		"/C/Users/Pablo/Downloads/response (3).json",
+		"/C/Users/Pablo/Downloads/response (4).json",
+		"/C/Users/Pablo/Documents/GitHub/Cointrackio/traders/gdax.html",
+		"/C/Users/Pablo/Downloads/response (2).json",
+		"/C/Users/Pablo/Downloads/response (1).json",
+		"/C/Users/Pablo/Documents/GitHub/Cointrackio/index.html",
+		"/C/Users/Pablo/Documents/GitHub/Cointrackio/traders/tableManager.js",
+		"/C/Users/Pablo/Documents/GitHub/Cointrackio/traders/bittrex.js",
+		"/C/Users/Pablo/Documents/GitHub/Cointrackio/traders/bittrex.html",
 		"/C/Users/Napster/Desktop/Cointrackio/traders/gdax.js",
 		"/C/Users/Napster/Desktop/Cointrackio/traders/gdax.html",
 		"/C/Users/Napster/Desktop/Cointrackio/traders/traders.css",
@@ -997,24 +987,15 @@
 		"/C/Users/Pablo/Downloads/bootstrap-4.0.0-beta.2/docs/4.0/examples/starter-template/index.html",
 		"/C/uc3m-interfaces_de_usuario-final_bootstrap/docs/4.0/examples/starter-template/starter-template.css",
 		"/C/uc3m-interfaces_de_usuario-final_bootstrap/docs/4.0/examples/starter-template/index.html",
-		"/C/uc3m-interfaces_de_usuario-final/index.html",
-		"/C/uc3m-interfaces_de_usuario-final/images/trending.txt",
-		"/C/uc3m-interfaces_de_usuario-final/FlsCjmMhFmw.html",
-		"/C/uc3m-interfaces_de_usuario-final/style/style.css",
-		"/C/uc3m-interfaces_de_usuario-final/scripts/script.js",
-		"/C/uc3m-interfaces_de_usuario-final/gaming.html",
-		"/C/uc3m-interfaces_de_usuario-ep02/ej02/scripts/script.js",
-		"/C/uc3m-interfaces_de_usuario-ep02/ej02/style/ej02.css",
-		"/C/uc3m-interfaces_de_usuario-ep02/ej02/ej02.html",
-		"/C/uc3m-interfaces_de_usuario-final/videos/FlsCjmMhFmw.html"
+		"/C/uc3m-interfaces_de_usuario-final/index.html"
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
-		"height": 112.0,
+		"height": 466.0,
 		"where_history":
 		[
 		]
@@ -1024,6 +1005,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"paramString",
 			"center",
 			"last",
 			"addToDataTable",
@@ -1087,6 +1069,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"requestString",
 			"oldLast",
 			"updateDataTable",
 			"Triplet",
@@ -1123,80 +1106,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "traders/bittrex.html",
+					"file": "chartCoins.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3611,
+						"buffer_size": 710,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3582,
-								3494
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 624.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "traders/gdax.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3675,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2322,
-								2322
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 624.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "traders/bittrex.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 731,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								255,
-								255
+								441,
+								441
 							]
 						],
 						"settings":
@@ -1207,11 +1134,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 1,
 					"file": "traders/tableManager.js",
 					"semi_transient": false,
 					"settings":
@@ -1223,19 +1150,20 @@
 						"selection":
 						[
 							[
-								1450,
-								1450
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 741.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1243,11 +1171,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 21.0
 	},
 	"input":
 	{
-		"height": 40.0
+		"height": 158.0
 	},
 	"layout":
 	{
@@ -1326,7 +1254,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 171.0,
+	"side_bar_width": 249.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
